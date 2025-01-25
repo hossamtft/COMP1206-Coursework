@@ -1,0 +1,28 @@
+--class-path
+'C:/Users/hossa/.m2/repository/org/openjfx/javafx-controls/21-ea+5/javafx-controls-21-ea+5.jar;C:/Users/hossa/.m2/repository/org/openjfx/javafx-graphics/21-ea+5/javafx-graphics-21-ea+5.jar;C:/Users/hossa/.m2/repository/org/openjfx/javafx-base/21-ea+5/javafx-base-21-ea+5.jar;C:/Users/hossa/.m2/repository/org/openjfx/javafx-fxml/21-ea+5/javafx-fxml-21-ea+5.jar;C:/Users/hossa/.m2/repository/org/openjfx/javafx-media/21-ea+5/javafx-media-21-ea+5.jar;C:/Users/hossa/.m2/repository/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar'
+--module-path
+'C:/Users/hossa/.m2/repository/org/openjfx/javafx-controls/21-ea+5/javafx-controls-21-ea+5-win.jar;C:/Users/hossa/.m2/repository/com/neovisionaries/nv-websocket-client/2.14/nv-websocket-client-2.14.jar;C:/Users/hossa/.m2/repository/org/openjfx/javafx-base/21-ea+5/javafx-base-21-ea+5-win.jar;C:/Users/hossa/.m2/repository/org/openjfx/javafx-media/21-ea+5/javafx-media-21-ea+5-win.jar;C:/Users/hossa/.m2/repository/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar;C:/Users/hossa/.m2/repository/org/openjfx/javafx-fxml/21-ea+5/javafx-fxml-21-ea+5-win.jar;Z:/mydocuments/Tetris/coursework/target/classes;C:/Users/hossa/.m2/repository/org/openjfx/javafx-graphics/21-ea+5/javafx-graphics-21-ea+5-win.jar'
+--patch-module
+uk.ac.soton.comp1206='Z:/mydocuments/Tetris/coursework/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+--module-source-path
+'Z:/mydocuments/Tetris/coursework/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'Z:/mydocuments/Tetris/coursework/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tetrecs 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'tetrecs 1.0-SNAPSHOT API'
